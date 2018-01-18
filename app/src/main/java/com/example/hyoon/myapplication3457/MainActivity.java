@@ -2,7 +2,7 @@ package com.example.hyoon.myapplication3457;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
+//comment
 public class MainActivity extends AppCompatActivity {
 
     @Override
